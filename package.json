@@ -1,0 +1,30 @@
+{
+  "name": "gmaps-polygon-editor",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for drawing and editing polygons on Google Maps, with support for exporting and importing WKT (Well-Known Text) format.",
+  "keywords": [
+    "google-maps",
+    "polygon",
+    "WKT",
+    "drawing",
+    "maps",
+    "javascript",
+    "editor",
+    "web-mapping"
+  ],
+  "homepage": "https://github.com/BeastOfShadow/gmaps-polygon-editor#readme",
+  "bugs": {
+    "url": "https://github.com/BeastOfShadow/gmaps-polygon-editor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeastOfShadow/gmaps-polygon-editor.git"
+  },
+  "license": "ISC",
+  "author": "BeastOfShadow",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"No tests specified\\\" && exit 0"
+  }
+}
